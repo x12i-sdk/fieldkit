@@ -1,0 +1,24 @@
+{
+  "name": "fieldkit-usage",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Usage example for @x12i/fieldkit: render an application record through an explicit field map.",
+  "type": "module",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "start": "node src/index.mjs",
+    "check": "node --check src/index.mjs"
+  },
+  "dependencies": {
+    "@x12i/fieldkit": "2.13.0",
+    "react": "18.3.1",
+    "react-dom": "18.3.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/x12i-sdk/fieldkit.git"
+  },
+  "homepage": "https://www.npmjs.com/package/@x12i/fieldkit"
+}

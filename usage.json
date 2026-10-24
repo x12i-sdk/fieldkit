@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/fieldkit",
+  "packageVersion": "2.13.0",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/fieldkit",
+  "usageRepository": "https://github.com/x12i-sdk/fieldkit",
+  "sourceRepository": "https://github.com/x12i/fieldkit",
+  "sourceCommit": "3f28b264b41e8617037f1467f8df41adc9872dcc",
+  "sourcePackageDirectory": "packages/fieldkit",
+  "example": {
+    "title": "Render an application record through an explicit field map",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T14:53:26.833143+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "cb54a8f5b8a536e9eb43df3fb89a9d35b9dfd3617612b1ce3db021b48a9814f0",
+    "manifestSha256": "b0a80e71d1e33ccfd58a418917524c9fa2e9cbee1b37d2f876f7c92bfbe46fd2"
+  },
+  "validationFiles": {
+    "src/index.mjs": "cb54a8f5b8a536e9eb43df3fb89a9d35b9dfd3617612b1ce3db021b48a9814f0"
+  }
+}
